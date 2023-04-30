@@ -1,0 +1,7 @@
+Ce qui est renvoyé par la console :
+
+PS C:\Users\Oriano\Downloads\Code\import-js> node import
+Salut !
+13
+Cela fonctionne avec fonction, variables, etc. variable example
+PS C:\Users\Oriano\Downloads\Code\import-js> 
